@@ -1,0 +1,20 @@
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model weights (too large for GitHub)
+*.h5
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data files
+*.csv
+*.zip

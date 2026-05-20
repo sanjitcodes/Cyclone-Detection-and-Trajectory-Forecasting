@@ -3,7 +3,6 @@
 > An end-to-end deep learning system for detecting cyclones in satellite imagery and forecasting their paths.
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.12+-EE4C2C?style=flat-square&logo=pytorch)](https://pytorch.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=flat-square&logo=tensorflow)](https://tensorflow.org)
 [![YOLOv7](https://img.shields.io/badge/YOLOv7-Object%20Detection-00B4D8?style=flat-square)](https://github.com/WongKinYiu/yolov7)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
